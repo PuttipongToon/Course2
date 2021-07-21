@@ -1,0 +1,46 @@
+@media only screen and (max-width: 600px) {
+    .contaner1{
+        font-size: 15px;
+    }
+    .text1{
+        font-size: 20px;
+        margin: 0px;
+    }
+    .text2{
+        font-size: 30px;
+        font-weight: 1000;
+        margin: 5px;
+    }
+    .text3{
+        font-size: 10px;
+        margin: 10px;
+    }
+    .text4{
+        font-size: 40px;
+        font-weight: 1000;
+        margin: 0px;
+      color: yellow;
+    }
+    .text5{
+        float: right;
+        margin-left: auto;
+        color: white;
+        padding-right: 10px;
+  }
+  main {
+    display: block;
+
+  }
+  .pic2 {
+    background-image: url(Course\ Jan\ 60.png);
+    background-size: 100% 100%;
+    height: 500px;
+    width: 100%;
+  }
+  .con1{
+      padding-left: 20px;
+      background-color: rgb(248, 135, 28);
+      font-weight: bolder;
+     
+  }
+}
